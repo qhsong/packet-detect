@@ -23,5 +23,5 @@ struct app_stats {
 	u_int64_t numPkts;
 	u_int64_t numBytes;
 	u_int64_t numStringMatches;
-}
+};
 #endif
